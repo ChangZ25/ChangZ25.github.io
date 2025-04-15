@@ -23,11 +23,11 @@ repository               : "ChangZ25/ChangZ25.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chang Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "ICT,CAS"
   uri              : # URL
   email            : "none@example.org" 
 
